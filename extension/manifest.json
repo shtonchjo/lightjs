@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Light JavaScript Playground",
-  "short_name": "lightjs",
+  "name": "Lighjs+p5",
+  "short_name": "lightjs-p5",
   "version": "1.0",
-  "author": "Jørgen NYSTAD",
+  "author": "Jørgen NYSTAD - fork by Shtonchjo",
 
-  "description": "A standalone HTML/CSS/JavaScript playground",
+  "description": "HTML/CSS/JavaScript playground with p5",
   "icons": {
      "16": "icon16.png",
      "48": "icon48.png",
@@ -24,7 +24,7 @@
       "19": "icon19.png",
       "38": "icon38.png"
     },
-    "default_title": "Launch JavaScript Playground"
+    "default_title": "Lightjs+p5"
   },
   "content_security_policy": "script-src 'self'; object-src 'self'"
 }
